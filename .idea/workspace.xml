@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Py4XLearningSeleniumPrograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_15102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_15102024/test_lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_15102024/test_lab01.py" afterDir="false" />
-    </list>
+    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium task date 15102024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +33,7 @@
   "keyToString": {
     "Python tests.Python tests for test_lab002.test_Katalon__Home.executor": "Run",
     "Python tests.Python tests for test_lab01.test_sample.executor": "Run",
+    "Python tests.Python tests in test_lab002.py.executor": "Run",
     "Python tests.Python tests in test_lab01.py.executor": "Run",
     "Python.test_lab01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -127,6 +117,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729067508174</updated>
     </task>
+    <task id="LOCAL-00001" summary="commited all selenium task date 15102024">
+      <option name="closed" value="true" />
+      <created>1729273189403</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729273189403</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commited all selenium task date 15102024" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium task date 15102024" />
   </component>
 </project>
