@@ -19,5 +19,6 @@ def test_open_url():
     password=driver.find_element(By.ID, value="txt-password")
     password.send_keys("amit@8676876")
     logon_button=driver.find_element(By.ID, value="btn-login")
+
     logon_button.click()
 

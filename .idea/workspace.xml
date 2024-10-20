@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium task date 17102024">
+    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium task date 17102024 make appoitement">
+      <change afterPath="$PROJECT_DIR$/src/Ex_19102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_19102024/test_lab001.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex_17102024/test_task171024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17102024/test_task171024.py" afterDir="false" />
     </list>
@@ -23,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "amitkumar151"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;amitkumar151&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/amitkumar151/Py4XLearningSeleniumPrograms.git",
-    "accountId": "33622d1c-b190-45f5-8aa1-9037c377d65c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/amitkumar151/Py4XLearningSeleniumPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;33622d1c-b190-45f5-8aa1-9037c377d65c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -48,6 +50,7 @@
   "keyToString": {
     "Python tests.Python tests for test_lab002.test_Katalon__Home.executor": "Run",
     "Python tests.Python tests for test_lab01.test_sample.executor": "Run",
+    "Python tests.Python tests in test_lab001.py.executor": "Run",
     "Python tests.Python tests in test_lab002.py.executor": "Run",
     "Python tests.Python tests in test_lab01.py.executor": "Run",
     "Python tests.Python tests in test_task171024.py.executor": "Run",
@@ -57,7 +60,7 @@
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for test_task171024.test_open_url">
     <configuration name="test_lab01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -110,8 +113,24 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_task171024.test_open_url" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_task171024.test_open_url&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_task171024.test_open_url" />
         <item itemvalue="Python tests.Python tests for test_lab01.test_sample" />
         <item itemvalue="Python tests.Python tests for test_lab002.test_Katalon__Home" />
       </list>
@@ -157,12 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729275335660</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commited all selenium task date 17102024 make appoitement">
+      <option name="closed" value="true" />
+      <created>1729276478886</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729276478886</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commited all selenium task date 15102024" />
     <MESSAGE value="commited all selenium task date 17102024" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium task date 17102024" />
+    <MESSAGE value="commited all selenium task date 17102024 make appoitement" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium task date 17102024 make appoitement" />
   </component>
 </project>
