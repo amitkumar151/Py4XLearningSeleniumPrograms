@@ -1,3 +1,5 @@
+import time
+
 from selenium import webdriver
 import pytest
 import allure
@@ -6,6 +8,8 @@ from selenium.webdriver.common.by import By
 @allure.title("open a registration page and fill the data")
 def test_open_url(button=None):
     driver=webdriver.Chrome()
+    driver.maximize_window()
+    time.sleep(3)
     driver.get("https://awesomeqa.com/ui/index.php?route=account/register")
     first_name=driver.find_element(By.ID, value="input-firstname")
     first_name.send_keys("Amit Kumar")
@@ -25,4 +29,7 @@ def test_open_url(button=None):
 
     driver.find_element(By.NAME, value="newsletter").click()
     driver.find_element(By.NAME, value="agree").click()
-    #button_click = driver.find_element(By.)
+    continue_button = driver.find_element(By.XPATH, "//*[@type='submit']")
+    continue_button.click()
+    sucess_message=driver.find_element(By.XPATH, "//div[@id='content']").text
+    assert "Your Account Has Been Created!" in sucess_message
