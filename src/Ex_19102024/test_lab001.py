@@ -25,11 +25,9 @@ def test_open_url(button=None):
     confirm_password.send_keys("Amit20151")
     driver.find_element(By.NAME, value="newsletter").click()
     driver.find_element(By.NAME, value="agree").click()
-    driver.find_element(By.CLASS_NAME, value="btn btn-primary").click()
-
-    driver.find_element(By.NAME, value="newsletter").click()
-    driver.find_element(By.NAME, value="agree").click()
     continue_button = driver.find_element(By.XPATH, "//*[@type='submit']")
     continue_button.click()
+    time.sleep(3)
     sucess_message=driver.find_element(By.XPATH, "//div[@id='content']").text
     assert "Your Account Has Been Created!" in sucess_message
+    driver.implicitly_wait(4)

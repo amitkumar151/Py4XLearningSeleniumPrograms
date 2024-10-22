@@ -7,6 +7,7 @@
     <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium task date 19102024 make appoitement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ex_19102024/test_lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_19102024/test_lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17102024/test_task171024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17102024/test_task171024.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729447210204</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commited all selenium task date 19102024 make appoitement">
+      <option name="closed" value="true" />
+      <created>1729493858848</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729493858848</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

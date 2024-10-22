@@ -12,6 +12,7 @@ def test_open_url():
     driver.get("https://katalon-demo-cura.herokuapp.com/")
     make_appointment=driver.find_element(By.ID, value="btn-make-appointment")
     make_appointment.click()
+    time.sleep(2)
     currenturl=driver.current_url
     assert currenturl=="https://katalon-demo-cura.herokuapp.com/profile.php#login"
     user_name=driver.find_element(By.ID, value="txt-username")
