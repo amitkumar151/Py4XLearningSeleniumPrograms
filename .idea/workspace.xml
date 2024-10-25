@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium task date 19102024 make appoitement">
-      <change afterPath="$PROJECT_DIR$/src/Ex_22102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_22102024/test_lab0001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_22102024/test_lab002_title.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_22102024/test_lab_004_explicit.py" afterDir="false" />
+    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium explicit wait date 22102024 make appoitement">
+      <change afterPath="$PROJECT_DIR$/src/Ex_5_selenium_24102024/Test_Task_24102024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_5_selenium_24102024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Python Stub" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -54,11 +52,13 @@
     "Python tests.Python tests for test_lab002_title.test_5.executor": "Run",
     "Python tests.Python tests for test_lab01.test_sample.executor": "Run",
     "Python tests.Python tests for test_task171024.test_open_url.executor": "Run",
+    "Python tests.Python tests in Test_Task_24102024.py.executor": "Run",
     "Python tests.Python tests in test_lab0001.py.executor": "Run",
     "Python tests.Python tests in test_lab001.py.executor": "Run",
     "Python tests.Python tests in test_lab002.py.executor": "Run",
     "Python tests.Python tests in test_lab002_title.py.executor": "Run",
     "Python tests.Python tests in test_lab01.py.executor": "Run",
+    "Python tests.Python tests in test_lab_004_explicit.py.executor": "Run",
     "Python tests.Python tests in test_task171024.py.executor": "Run",
     "Python.test_lab01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -222,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729493858848</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commited all selenium explicit wait date 22102024 make appoitement">
+      <option name="closed" value="true" />
+      <created>1729879417560</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729879417560</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +249,7 @@
     <MESSAGE value="commited all selenium task date 17102024" />
     <MESSAGE value="commited all selenium task date 17102024 make appoitement" />
     <MESSAGE value="commited all selenium task date 19102024 make appoitement" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium task date 19102024 make appoitement" />
+    <MESSAGE value="commited all selenium explicit wait date 22102024 make appoitement" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium explicit wait date 22102024 make appoitement" />
   </component>
 </project>
