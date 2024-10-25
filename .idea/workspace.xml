@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium task date 19102024 make appoitement">
+      <change afterPath="$PROJECT_DIR$/src/Ex_22102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_22102024/test_lab0001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_22102024/test_lab002_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_22102024/test_lab_004_explicit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_19102024/test_lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_19102024/test_lab001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17102024/test_task171024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17102024/test_task171024.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Stub" />
       </list>
     </option>
   </component>
@@ -45,21 +48,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_lab002.test_Katalon__Home.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab01.test_sample.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_task171024.test_open_url.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab001.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab002.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab01.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_task171024.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_lab01.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_lab002.test_Katalon__Home.executor": "Run",
+    "Python tests.Python tests for test_lab002_title.test_5.executor": "Run",
+    "Python tests.Python tests for test_lab01.test_sample.executor": "Run",
+    "Python tests.Python tests for test_task171024.test_open_url.executor": "Run",
+    "Python tests.Python tests in test_lab0001.py.executor": "Run",
+    "Python tests.Python tests in test_lab001.py.executor": "Run",
+    "Python tests.Python tests in test_lab002.py.executor": "Run",
+    "Python tests.Python tests in test_lab002_title.py.executor": "Run",
+    "Python tests.Python tests in test_lab01.py.executor": "Run",
+    "Python tests.Python tests in test_task171024.py.executor": "Run",
+    "Python.test_lab01.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="test_lab01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
@@ -98,6 +104,21 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_lab002_title.test_5" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_22102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab002_title.test_5&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_lab01.test_sample" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -130,6 +151,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_lab002_title.test_5" />
         <item itemvalue="Python tests.Python tests for test_task171024.test_open_url" />
         <item itemvalue="Python tests.Python tests for test_lab01.test_sample" />
         <item itemvalue="Python tests.Python tests for test_lab002.test_Katalon__Home" />
