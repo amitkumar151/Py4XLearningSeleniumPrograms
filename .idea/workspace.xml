@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium explicit wait date 24102024 make appoitement">
-      <change afterPath="$PROJECT_DIR$/src/Ex_5_selenium_24102024/test_01_webtables01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ex_5_selenium_24102024/Test_Task_24102024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_5_selenium_24102024/Test_Task_24102024.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +67,7 @@
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_01_webtables01.test_web_table">
+  <component name="RunManager">
     <configuration name="test_lab01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -257,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729881774582</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commited all selenium explicit wait date 24102024 make appoitement">
+      <option name="closed" value="true" />
+      <created>1729956941815</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729956941815</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
