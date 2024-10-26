@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium explicit wait date 22102024 make appoitement">
-      <change afterPath="$PROJECT_DIR$/src/Ex_5_selenium_24102024/Test_Task_24102024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_5_selenium_24102024/__init__.py" afterDir="false" />
+    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium explicit wait date 24102024 make appoitement">
+      <change afterPath="$PROJECT_DIR$/src/Ex_5_selenium_24102024/test_01_webtables01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_5_selenium_24102024/Test_Task_24102024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_5_selenium_24102024/Test_Task_24102024.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +48,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for Test_Task_24102024.test_fill_up_form.executor": "Run",
+    "Python tests.Python tests for test_01_webtables01.test_web_table.executor": "Run",
     "Python tests.Python tests for test_lab002.test_Katalon__Home.executor": "Run",
     "Python tests.Python tests for test_lab002_title.test_5.executor": "Run",
     "Python tests.Python tests for test_lab01.test_sample.executor": "Run",
     "Python tests.Python tests for test_task171024.test_open_url.executor": "Run",
     "Python tests.Python tests in Test_Task_24102024.py.executor": "Run",
+    "Python tests.Python tests in test_01_webtables01.py.executor": "Run",
     "Python tests.Python tests in test_lab0001.py.executor": "Run",
     "Python tests.Python tests in test_lab001.py.executor": "Run",
     "Python tests.Python tests in test_lab002.py.executor": "Run",
@@ -66,7 +69,7 @@
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for test_01_webtables01.test_web_table">
     <configuration name="test_lab01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -89,18 +92,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_lab002.test_Katalon__Home" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Test_Task_24102024.test_fill_up_form" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_15102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_5_selenium_24102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab002.test_Katalon__Home&quot;" />
+      <option name="_new_target" value="&quot;Test_Task_24102024.test_fill_up_form&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_01_webtables01.test_web_table" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_5_selenium_24102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_01_webtables01.test_web_table&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -151,10 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_01_webtables01.test_web_table" />
+        <item itemvalue="Python tests.Python tests for Test_Task_24102024.test_fill_up_form" />
         <item itemvalue="Python tests.Python tests for test_lab002_title.test_5" />
         <item itemvalue="Python tests.Python tests for test_task171024.test_open_url" />
         <item itemvalue="Python tests.Python tests for test_lab01.test_sample" />
-        <item itemvalue="Python tests.Python tests for test_lab002.test_Katalon__Home" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729879417560</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commited all selenium explicit wait date 24102024 make appoitement">
+      <option name="closed" value="true" />
+      <created>1729881774582</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729881774582</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,6 +277,7 @@
     <MESSAGE value="commited all selenium task date 17102024 make appoitement" />
     <MESSAGE value="commited all selenium task date 19102024 make appoitement" />
     <MESSAGE value="commited all selenium explicit wait date 22102024 make appoitement" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium explicit wait date 22102024 make appoitement" />
+    <MESSAGE value="commited all selenium explicit wait date 24102024 make appoitement" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium explicit wait date 24102024 make appoitement" />
   </component>
 </project>

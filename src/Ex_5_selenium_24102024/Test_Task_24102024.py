@@ -5,19 +5,19 @@ import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
-from selenium.common.exceptions import (ElementNotVisibleException,
-                                        ElementNotSelectableException)
+from selenium.common.exceptions import (ElementNotVisibleException, ElementNotSelectableException)
 @allure.title("fill the form page with radio button")
 @allure.description(" form page fillup ")
 def test_fill_up_form():
     driver = webdriver.Chrome()
     driver.get("https://awesomeqa.com/practice.html")
     driver.maximize_window()
-    first_name = driver.find_element(By.NAME, "//input[@name='firstname']")
+    time.sleep(4)
+    first_name = driver.find_element(By.NAME,"//input[@name= 'firstname']")
     first_name.send_keys("amit kumar")
-    last_name = driver.find_element(By.NAME, "//input[@name='lastname']")
+    last_name = driver.find_element(By.NAME,"//input[@name='lastname']")
     first_name.send_keys("sinha")
+    driver.implicitly_wait(3)
     select_gender = driver.find_element(By.CSS_SELECTOR, "#sex-1")
     select_gender.click()
     driver.implicitly_wait(2)
