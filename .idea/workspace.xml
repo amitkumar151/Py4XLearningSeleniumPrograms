@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium explicit wait date 24102024 make appoitement">
-      <change beforePath="$PROJECT_DIR$/src/Ex_5_selenium_24102024/Test_Task_24102024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_5_selenium_24102024/Test_Task_24102024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6_selenium_action_Class/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6_selenium_action_Class/test_lab_selenium_actionP1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6_selenium_action_Class/test_lab_selenium_action_p2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,30 +47,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for Test_Task_24102024.test_fill_up_form.executor": "Run",
-    "Python tests.Python tests for test_01_webtables01.test_web_table.executor": "Run",
-    "Python tests.Python tests for test_lab002.test_Katalon__Home.executor": "Run",
-    "Python tests.Python tests for test_lab002_title.test_5.executor": "Run",
-    "Python tests.Python tests for test_lab01.test_sample.executor": "Run",
-    "Python tests.Python tests for test_task171024.test_open_url.executor": "Run",
-    "Python tests.Python tests in Test_Task_24102024.py.executor": "Run",
-    "Python tests.Python tests in test_01_webtables01.py.executor": "Run",
-    "Python tests.Python tests in test_lab0001.py.executor": "Run",
-    "Python tests.Python tests in test_lab001.py.executor": "Run",
-    "Python tests.Python tests in test_lab002.py.executor": "Run",
-    "Python tests.Python tests in test_lab002_title.py.executor": "Run",
-    "Python tests.Python tests in test_lab01.py.executor": "Run",
-    "Python tests.Python tests in test_lab_004_explicit.py.executor": "Run",
-    "Python tests.Python tests in test_task171024.py.executor": "Run",
-    "Python.test_lab01.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for Test_Task_24102024.test_fill_up_form.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_01_webtables01.test_web_table.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab002.test_Katalon__Home.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab002_title.test_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab01.test_sample.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_task171024.test_open_url.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Test_Task_24102024.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_01_webtables01.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab0001.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab001.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab002.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab002_title.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab01.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab_004_explicit.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab_selenium_actionP1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_task171024.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_lab01.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.test_lab01">
     <configuration name="test_lab01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -263,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729956941815</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commited all selenium explicit wait date 24102024 make appoitement">
+      <option name="closed" value="true" />
+      <created>1729960809628</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729960809628</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
