@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium explicit wait date 24102024 make appoitement">
-      <change afterPath="$PROJECT_DIR$/src/ex_6_selenium_action_Class/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_6_selenium_action_Class/test_lab_selenium_actionP1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_6_selenium_action_Class/test_lab_selenium_action_p2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_22102024/rverse_ code_without_reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_22102024/test_08.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
