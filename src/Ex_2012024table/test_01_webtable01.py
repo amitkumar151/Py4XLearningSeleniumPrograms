@@ -30,7 +30,11 @@ def test_webtable():
     for i in range(2,row+1):
         for j in range(1,col+1):
             dyanmic_path=f" {first_part}{i}{second_part}{j}{third_part}"
-            print(dyanmic_path)
-            data=driver.find_element(By.XPATH,dyanmic_path)
-            print(data.text, end=" ")
+            #print(dyanmic_path)
+            data=driver.find_element(By.XPATH,dyanmic_path).text
+            #print(data.text, end=" ")
+            if "Yoshi Tannamuri" in data:
+                country_path=f" {dyanmic_path}/following-sibling::td"
+                country_text=driver.find_element(By.XPATH,country_path).text
+                print(f"Yoshi Tannamuri in {country_text}" )
 
