@@ -21,7 +21,7 @@ def test_webtable():
     for i in range(2,row+1):
         for j in range(1,col+1):
             dynamic_path=f"{first_part}{i}{second_part}{j}{third_part}"
-            print(dynamic_path)
+            #print(dynamic_path)
             data=driver.find_element(By.XPATH, dynamic_path)
-            print(data.text, end=" ")
+            print(data.text)
 
