@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium explicit wait date 21122024 make appoitement">
-      <change afterPath="$PROJECT_DIR$/src/Ex_2012024table/test_lab_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_2012024table/test_lab_incongnio_option.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_2012024table/test_lab_webtable_interview.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_2012024table/test_lab_webtable_interview.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,7 @@
     "Python tests.Python tests for test_lab002.test_Katalon__Home.executor": "Run",
     "Python tests.Python tests for test_lab002_title.test_5.executor": "Run",
     "Python tests.Python tests for test_lab01.test_sample.executor": "Run",
+    "Python tests.Python tests for test_lab_incongnio_option.test_chrome_option.executor": "Run",
     "Python tests.Python tests for test_lab_practice.test_verification_title.executor": "Run",
     "Python tests.Python tests for test_lab_webtable_dynamic.test_webtable.executor": "Run",
     "Python tests.Python tests for test_lab_webtable_interview.test_webtable.executor": "Run",
@@ -78,7 +78,7 @@
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for test_lab_incongnio_option.test_chrome_option">
     <configuration name="test_lab01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -116,18 +116,18 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_01_webtables01.test_web_table" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab_incongnio_option.test_chrome_option" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_5_selenium_24102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_2012024table" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_01_webtables01.test_web_table&quot;" />
+      <option name="_new_target" value="&quot;test_lab_incongnio_option.test_chrome_option&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -178,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_lab_incongnio_option.test_chrome_option" />
         <item itemvalue="Python tests.Python tests for test_lab_practice.test_verification_title" />
         <item itemvalue="Python tests.Python tests for test_lab_webtable_interview.test_webtable" />
         <item itemvalue="Python tests.Python tests for test_lab_webtable_dynamic.test_webtable" />
         <item itemvalue="Python tests.Python tests for test_01_webtable01.test_webtable" />
-        <item itemvalue="Python tests.Python tests for test_01_webtables01.test_web_table" />
       </list>
     </recent_temporary>
   </component>
