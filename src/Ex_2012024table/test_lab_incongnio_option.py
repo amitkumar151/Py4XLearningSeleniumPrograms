@@ -13,3 +13,5 @@ def test_chrome_option():
     driver = webdriver.Chrome(chrome_options)
     driver.get("https://www.thenavsoft.com/")
     time.sleep(10)
+    pagesource_data=driver.page_source
+    print(pagesource_data)
