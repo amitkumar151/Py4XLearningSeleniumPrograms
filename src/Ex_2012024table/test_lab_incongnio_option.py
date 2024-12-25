@@ -15,3 +15,4 @@ def test_chrome_option():
     time.sleep(10)
     pagesource_data=driver.page_source
     print(pagesource_data)
+    assert "https://www.thenavsoft.com/" ==pagesource_data

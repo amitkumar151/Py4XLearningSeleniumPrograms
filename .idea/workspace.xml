@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium explicit wait date 21122024 make appoitement">
-      <change afterPath="$PROJECT_DIR$/src/Ex_2012024table/test_lab_incongnio_option.py" afterDir="false" />
+    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium explicit wait date 24122024 make appoitement">
+      <change afterPath="$PROJECT_DIR$/src/Ex_25122024/test_lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_25122024/test_lab_multibrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_2012024table/test_lab_incongnio_option.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_2012024table/test_lab_incongnio_option.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_25122024/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +40,9 @@
     &quot;accountId&quot;: &quot;33622d1c-b190-45f5-8aa1-9037c377d65c&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/Lib/site-packages/selenium/webdriver/common/selenium_manager.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -54,6 +61,7 @@
     "Python tests.Python tests for test_lab002_title.test_5.executor": "Run",
     "Python tests.Python tests for test_lab01.test_sample.executor": "Run",
     "Python tests.Python tests for test_lab_incongnio_option.test_chrome_option.executor": "Run",
+    "Python tests.Python tests for test_lab_multibrowser.test_firefox_current_url_verification.executor": "Run",
     "Python tests.Python tests for test_lab_practice.test_verification_title.executor": "Run",
     "Python tests.Python tests for test_lab_webtable_dynamic.test_webtable.executor": "Run",
     "Python tests.Python tests for test_lab_webtable_interview.test_webtable.executor": "Run",
@@ -67,6 +75,7 @@
     "Python tests.Python tests in test_lab002_title.py.executor": "Run",
     "Python tests.Python tests in test_lab01.py.executor": "Run",
     "Python tests.Python tests in test_lab_004_explicit.py.executor": "Run",
+    "Python tests.Python tests in test_lab_multibrowser.py.executor": "Run",
     "Python tests.Python tests in test_lab_practice.py.executor": "Run",
     "Python tests.Python tests in test_lab_selenium_actionP1.py.executor": "Run",
     "Python tests.Python tests in test_lab_webtable_interview.py.executor": "Run",
@@ -78,7 +87,12 @@
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_lab_incongnio_option.test_chrome_option">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PILsystem\PycharmProjects\Py4XLearningSeleniumPrograms\src\Ex_25122024" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_lab_multibrowser.test_firefox_current_url_verification">
     <configuration name="test_lab01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -101,21 +115,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_01_webtable01.test_webtable" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py4XLearningSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_2012024table" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_01_webtable01.test_webtable&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests for test_lab_incongnio_option.test_chrome_option" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -128,6 +127,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_lab_incongnio_option.test_chrome_option&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab_multibrowser.test_firefox_current_url_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_25122024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab_multibrowser.test_firefox_current_url_verification&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -178,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_lab_multibrowser.test_firefox_current_url_verification" />
         <item itemvalue="Python tests.Python tests for test_lab_incongnio_option.test_chrome_option" />
         <item itemvalue="Python tests.Python tests for test_lab_practice.test_verification_title" />
         <item itemvalue="Python tests.Python tests for test_lab_webtable_interview.test_webtable" />
         <item itemvalue="Python tests.Python tests for test_lab_webtable_dynamic.test_webtable" />
-        <item itemvalue="Python tests.Python tests for test_01_webtable01.test_webtable" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +328,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734803663774</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commited all selenium explicit wait date 24122024 make appoitement">
+      <option name="closed" value="true" />
+      <created>1735059513361</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1735059513361</updated>
+    </task>
+    <task id="LOCAL-00016" summary="commited all selenium explicit wait date 24122024 make appoitement">
+      <option name="closed" value="true" />
+      <created>1735059825191</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1735059825191</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -337,6 +367,7 @@
     <MESSAGE value="commited all selenium explicit wait date 24102024 make appoitement" />
     <MESSAGE value="commited all selenium explicit wait date 20122024 make appoitement" />
     <MESSAGE value="commited all selenium explicit wait date 21122024 make appoitement" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium explicit wait date 21122024 make appoitement" />
+    <MESSAGE value="commited all selenium explicit wait date 24122024 make appoitement" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium explicit wait date 24122024 make appoitement" />
   </component>
 </project>
