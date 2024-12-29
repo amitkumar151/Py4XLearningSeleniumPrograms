@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium explicit wait date 25122024 url verification">
-      <change afterPath="$PROJECT_DIR$/src/Ex_25122024/lab_test_button_name.py" afterDir="false" />
+    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium explicit wait date 26122024  link tag">
+      <change afterPath="$PROJECT_DIR$/src/Ex_25122024/test_lab_practice_ebay.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_25122024/lab_test_button_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_25122024/lab_test_button_name.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests for Test_Task_24102024.test_fill_up_form.executor": "Run",
+    "Python tests.Python tests for lab_test_button_name.test_button_click.executor": "Run",
     "Python tests.Python tests for lab_test_button_name.test_no_of_button.executor": "Run",
     "Python tests.Python tests for test_01_webtable01.test_webtable.executor": "Run",
     "Python tests.Python tests for test_01_webtables01.test_web_table.executor": "Run",
@@ -64,6 +66,7 @@
     "Python tests.Python tests for test_lab_webtable_interview.test_webtable.executor": "Run",
     "Python tests.Python tests for test_task171024.test_open_url.executor": "Run",
     "Python tests.Python tests in Test_Task_24102024.py.executor": "Run",
+    "Python tests.Python tests in lab_test_button_name.py.executor": "Run",
     "Python tests.Python tests in test_01_webtable01.py.executor": "Run",
     "Python tests.Python tests in test_01_webtables01.py.executor": "Run",
     "Python tests.Python tests in test_lab0001.py.executor": "Run",
@@ -74,6 +77,7 @@
     "Python tests.Python tests in test_lab_004_explicit.py.executor": "Run",
     "Python tests.Python tests in test_lab_multibrowser.py.executor": "Run",
     "Python tests.Python tests in test_lab_practice.py.executor": "Run",
+    "Python tests.Python tests in test_lab_practice_ebay.py.executor": "Run",
     "Python tests.Python tests in test_lab_selenium_actionP1.py.executor": "Run",
     "Python tests.Python tests in test_lab_webtable_interview.py.executor": "Run",
     "Python tests.Python tests in test_task171024.py.executor": "Run",
@@ -89,7 +93,7 @@
       <recent name="C:\Users\PILsystem\PycharmProjects\Py4XLearningSeleniumPrograms\src\Ex_25122024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for lab_test_button_name.test_no_of_button">
+  <component name="RunManager" selected="Python tests.Python tests for test_lab_practice_ebay.test_ebay_product_list">
     <configuration name="test_lab01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -110,6 +114,21 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for lab_test_button_name.test_button_click" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_25122024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;lab_test_button_name.test_button_click&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests for lab_test_button_name.test_no_of_button" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -157,43 +176,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_lab_practice.test_verification_title" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab_practice_ebay.test_ebay_product_list" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_2012024table" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_25122024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab_practice.test_verification_title&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_lab_webtable_interview.test_webtable" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py4XLearningSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_2012024table" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab_webtable_interview.test_webtable&quot;" />
+      <option name="_new_target" value="&quot;test_lab_practice_ebay.test_ebay_product_list&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_lab_practice_ebay.test_ebay_product_list" />
+        <item itemvalue="Python tests.Python tests for lab_test_button_name.test_button_click" />
         <item itemvalue="Python tests.Python tests for lab_test_button_name.test_no_of_button" />
         <item itemvalue="Python tests.Python tests for test_lab_multibrowser.test_firefox_current_url_verification" />
         <item itemvalue="Python tests.Python tests for test_lab_incongnio_option.test_chrome_option" />
-        <item itemvalue="Python tests.Python tests for test_lab_practice.test_verification_title" />
-        <item itemvalue="Python tests.Python tests for test_lab_webtable_interview.test_webtable" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +361,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735114560194</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="commited all selenium explicit wait date 26122024  link tag">
+      <option name="closed" value="true" />
+      <created>1735236047548</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1735236047548</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -383,6 +395,7 @@
     <MESSAGE value="commited all selenium explicit wait date 24122024 make appoitement" />
     <MESSAGE value="commited all selenium explicit wait date 25122024 make appoitement" />
     <MESSAGE value="commited all selenium explicit wait date 25122024 url verification" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium explicit wait date 25122024 url verification" />
+    <MESSAGE value="commited all selenium explicit wait date 26122024  link tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium explicit wait date 26122024  link tag" />
   </component>
 </project>
