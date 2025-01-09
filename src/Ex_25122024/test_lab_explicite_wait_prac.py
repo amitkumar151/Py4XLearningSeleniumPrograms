@@ -11,7 +11,6 @@ from selenium.webdriver.support import expected_conditions as EC
 def test_ec_wait():
     driver = webdriver.Chrome()
     driver.get("https://app.vwo.com/#/login")
-    time.sleep(5)
     email_webelement = driver.find_element(By.XPATH, "//input[@id='login-username']")
     email_webelement.send_keys("amit@gmail.com")
     pass_web_element = driver.find_element(By.ID, "login-password")
@@ -22,3 +21,5 @@ def test_ec_wait():
 
     error_pop_message = driver.find_element(By.XPATH, "//div[@id='js-notification-box-msg']")
     print(error_pop_message.text)
+
+

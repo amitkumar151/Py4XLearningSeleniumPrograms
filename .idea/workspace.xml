@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium explicit wait date 09012025  link tag" />
+    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium explicit wait date 0012025  link tag">
+      <change afterPath="$PROJECT_DIR$/src/Ex_25122024/test_lab_explicit_fluent_wait.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_25122024/test_lab_explicite_wait_prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_25122024/test_lab_explicite_wait_prac.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +88,8 @@
     "Python.test_lab01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "run.code.analysis.last.selected.profile": "aDefault"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -128,21 +132,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;lab_test_button_name.test_button_click&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_lab001.test_all_title" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py4XLearningSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_01012025" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab001.test_all_title&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -191,13 +180,28 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in test_lab_explicite_wait_prac.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_25122024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/Ex_25122024/test_lab_explicite_wait_prac.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests for test_lab_explicite_wait_prac.test_ec_wait" />
+        <item itemvalue="Python tests.Python tests in test_lab_explicite_wait_prac.py" />
         <item itemvalue="Python tests.Python tests for test_lab_explicite_wait_prac.test" />
         <item itemvalue="Python tests.Python tests for lab_test_button_name.test_button_click" />
         <item itemvalue="Python tests.Python tests in lab_test_button_name.py" />
-        <item itemvalue="Python tests.Python tests for test_lab001.test_all_title" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +389,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736410383807</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="commited all selenium explicit wait date 0012025  link tag">
+      <option name="closed" value="true" />
+      <created>1736410906458</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1736410906458</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,6 +425,7 @@
     <MESSAGE value="commited all selenium explicit wait date 25122024 url verification" />
     <MESSAGE value="commited all selenium explicit wait date 26122024  link tag" />
     <MESSAGE value="commited all selenium explicit wait date 09012025  link tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium explicit wait date 09012025  link tag" />
+    <MESSAGE value="commited all selenium explicit wait date 0012025  link tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium explicit wait date 0012025  link tag" />
   </component>
 </project>
