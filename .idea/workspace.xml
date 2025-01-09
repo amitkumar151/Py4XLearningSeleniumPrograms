@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium explicit wait date 26122024  link tag">
-      <change afterPath="$PROJECT_DIR$/allure_result/bd83b1e7-77a5-4c84-9b95-b72c56a2567c-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/cf6d21e5-99a8-4ac6-b08e-f44a473ed586-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01012025/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_01012025/test_lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_25122024/test_lab_explicite_wait_prac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium explicit wait date 09012025  link tag" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -376,7 +369,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735236047548</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="commited all selenium explicit wait date 09012025  link tag">
+      <option name="closed" value="true" />
+      <created>1736410329820</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1736410329820</updated>
+    </task>
+    <task id="LOCAL-00021" summary="commited all selenium explicit wait date 09012025  link tag">
+      <option name="closed" value="true" />
+      <created>1736410383807</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1736410383807</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,6 +412,7 @@
     <MESSAGE value="commited all selenium explicit wait date 25122024 make appoitement" />
     <MESSAGE value="commited all selenium explicit wait date 25122024 url verification" />
     <MESSAGE value="commited all selenium explicit wait date 26122024  link tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium explicit wait date 26122024  link tag" />
+    <MESSAGE value="commited all selenium explicit wait date 09012025  link tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium explicit wait date 09012025  link tag" />
   </component>
 </project>
