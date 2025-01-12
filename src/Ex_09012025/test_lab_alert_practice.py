@@ -11,8 +11,8 @@ from selenium.webdriver.support import expected_conditions as EC
 def test_alert_normal():
     driver = webdriver.Chrome()
     driver.get("https://the-internet.herokuapp.com/javascript_alerts")
-    element_promot=driver.find_element(By.XPATH,"//button[@onclick='jsAlert()']")
-    element_promot.click()
+    element_normal=driver.find_element(By.XPATH,"//button[@onclick='jsAlert()']")
+    element_normal.click()
     WebDriverWait(driver=driver,timeout=5).until(EC.alert_is_present())
 
     alert=driver.switch_to.alert
