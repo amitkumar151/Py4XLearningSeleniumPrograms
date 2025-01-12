@@ -6,8 +6,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-@allure.title("print the title of vwo app")
-@allure.description("verify the title of VWO APP")
+@allure.title("Alert")
+@allure.description("alert with accept")
 def test_ec_wait():
     driver = webdriver.Chrome()
     driver.get("https://the-internet.herokuapp.com/javascript_alerts")
