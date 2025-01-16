@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium Exception and execption handel  date 16012025  link tag">
-      <change afterPath="$PROJECT_DIR$/src/Ex_14012025/test_lab_selenium_stale_exception.py" afterDir="false" />
+    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium stale execption handel  date 16012025  link tag">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_14012025/test_lab_selenium_exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_14012025/test_lab_selenium_exception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_14012025/test_lab_svg_part_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_14012025/test_lab_svg_part_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +72,7 @@
     "Python tests.Python tests for test_lab_select_practice_001.test_alert_normal.executor": "Run",
     "Python tests.Python tests for test_lab_selenium_exception.test_alert_normal.executor": "Run",
     "Python tests.Python tests for test_lab_selenium_exception_handel.test_alert_normal.executor": "Run",
+    "Python tests.Python tests for test_lab_selenium_stale_exception.test_alert_normal.executor": "Run",
     "Python tests.Python tests for test_lab_svg_part_1.test_alert_normal.executor": "Run",
     "Python tests.Python tests for test_lab_svg_part_2.test_alert_normal.executor": "Run",
     "Python tests.Python tests for test_lab_webtable_dynamic.test_webtable.executor": "Run",
@@ -479,7 +481,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737002453932</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="commited all selenium stale execption handel  date 16012025  link tag">
+      <option name="closed" value="true" />
+      <created>1737005170407</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1737005170407</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -513,6 +523,7 @@
     <MESSAGE value="commited all selenium select  date 12012025  link tag" />
     <MESSAGE value="commited all selenium svg  date 14012025  link tag" />
     <MESSAGE value="commited all selenium Exception and execption handel  date 16012025  link tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium Exception and execption handel  date 16012025  link tag" />
+    <MESSAGE value="commited all selenium stale execption handel  date 16012025  link tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium stale execption handel  date 16012025  link tag" />
   </component>
 </project>

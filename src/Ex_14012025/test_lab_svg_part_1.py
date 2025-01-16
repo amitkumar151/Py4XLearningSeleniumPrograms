@@ -5,9 +5,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
-@allure.title("select")
-@allure.description("verify select")
-def test_alert_normal():
+@allure.title("SVG")
+@allure.description("verify SVG")
+def test_svg_normal():
     driver = webdriver.Chrome()
     driver.get("https://www.flipkart.com/")
     search_box=driver.find_element(By.XPATH, "//input[@name='q']")

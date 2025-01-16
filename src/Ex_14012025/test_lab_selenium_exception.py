@@ -9,8 +9,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
 
 
-@allure.title("svg")
-@allure.description("verify svg with states")
+@allure.title("exception")
+@allure.description("verify exception")
 def test_alert_normal():
     driver = webdriver.Chrome()
     driver.get("https://app.vwo.com/#/login")
