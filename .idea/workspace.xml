@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium stale action mouse back  date 17012025  link tag">
-      <change afterPath="$PROJECT_DIR$/src/Ex_JS_excute/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_JS_excute/test_lab_js_p1.py" afterDir="false" />
+    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium stale JS EXECUTE  date 29012025  link tag">
+      <change afterPath="$PROJECT_DIR$/src/Ex_JS_excute/test_lab_js_p2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,69 +48,70 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for Test_Task_24102024.test_fill_up_form.executor": "Run",
-    "Python tests.Python tests for lab_test_button_name.test_button_click.executor": "Run",
-    "Python tests.Python tests for lab_test_button_name.test_no_of_button.executor": "Run",
-    "Python tests.Python tests for test_01_webtable01.test_webtable.executor": "Run",
-    "Python tests.Python tests for test_01_webtables01.test_web_table.executor": "Run",
-    "Python tests.Python tests for test_lab001.test_all_title.executor": "Run",
-    "Python tests.Python tests for test_lab002.test_Katalon__Home.executor": "Run",
-    "Python tests.Python tests for test_lab002_title.test_5.executor": "Run",
-    "Python tests.Python tests for test_lab01.test_sample.executor": "Run",
-    "Python tests.Python tests for test_lab_alert_practice.test_alert_confirm.executor": "Run",
-    "Python tests.Python tests for test_lab_alert_practice.test_alert_prompt.executor": "Run",
-    "Python tests.Python tests for test_lab_alert_practice.test_ec_wait.executor": "Run",
-    "Python tests.Python tests for test_lab_explicit_fluent_wait.test_ec_wait.executor": "Run",
-    "Python tests.Python tests for test_lab_explicite_wait_prac.test.executor": "Run",
-    "Python tests.Python tests for test_lab_explicite_wait_prac.test_ec_wait.executor": "Run",
-    "Python tests.Python tests for test_lab_incongnio_option.test_chrome_option.executor": "Run",
-    "Python tests.Python tests for test_lab_js_p1.test_alert_normal.executor": "Run",
-    "Python tests.Python tests for test_lab_multibrowser.test_firefox_current_url_verification.executor": "Run",
-    "Python tests.Python tests for test_lab_practice.test_verification_title.executor": "Run",
-    "Python tests.Python tests for test_lab_select_practice_001.test_alert_normal.executor": "Run",
-    "Python tests.Python tests for test_lab_selenium_action.test_svg_normal.executor": "Run",
-    "Python tests.Python tests for test_lab_selenium_exception.test_alert_normal.executor": "Run",
-    "Python tests.Python tests for test_lab_selenium_exception_handel.test_alert_normal.executor": "Run",
-    "Python tests.Python tests for test_lab_selenium_stale_exception.test_alert_normal.executor": "Run",
-    "Python tests.Python tests for test_lab_svg_part_1.test_alert_normal.executor": "Run",
-    "Python tests.Python tests for test_lab_svg_part_2.test_alert_normal.executor": "Run",
-    "Python tests.Python tests for test_lab_webtable_dynamic.test_webtable.executor": "Run",
-    "Python tests.Python tests for test_lab_webtable_interview.test_webtable.executor": "Run",
-    "Python tests.Python tests for test_task171024.test_open_url.executor": "Run",
-    "Python tests.Python tests in Test_Task_24102024.py.executor": "Run",
-    "Python tests.Python tests in lab_test_button_name.py.executor": "Run",
-    "Python tests.Python tests in test_01_webtable01.py.executor": "Run",
-    "Python tests.Python tests in test_01_webtables01.py.executor": "Run",
-    "Python tests.Python tests in test_lab0001.py.executor": "Run",
-    "Python tests.Python tests in test_lab001.py.executor": "Run",
-    "Python tests.Python tests in test_lab002.py.executor": "Run",
-    "Python tests.Python tests in test_lab002_title.py.executor": "Run",
-    "Python tests.Python tests in test_lab01.py.executor": "Run",
-    "Python tests.Python tests in test_lab_004_explicit.py.executor": "Run",
-    "Python tests.Python tests in test_lab_explicit_fluent_wait.py.executor": "Run",
-    "Python tests.Python tests in test_lab_explicite_wait_prac.py.executor": "Run",
-    "Python tests.Python tests in test_lab_multibrowser.py.executor": "Run",
-    "Python tests.Python tests in test_lab_practice.py.executor": "Run",
-    "Python tests.Python tests in test_lab_practice_ebay.py.executor": "Run",
-    "Python tests.Python tests in test_lab_selenium_actionP1.py.executor": "Run",
-    "Python tests.Python tests in test_lab_webtable_interview.py.executor": "Run",
-    "Python tests.Python tests in test_task171024.py.executor": "Run",
-    "Python.rverse_ code_without_reverse.executor": "Run",
-    "Python.test_lab01.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "run.code.analysis.last.selected.profile": "aDefault"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for Test_Task_24102024.test_fill_up_form.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for lab_test_button_name.test_button_click.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for lab_test_button_name.test_no_of_button.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_01_webtable01.test_webtable.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_01_webtables01.test_web_table.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab001.test_all_title.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab002.test_Katalon__Home.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab002_title.test_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab01.test_sample.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_alert_practice.test_alert_confirm.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_alert_practice.test_alert_prompt.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_alert_practice.test_ec_wait.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_explicit_fluent_wait.test_ec_wait.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_explicite_wait_prac.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_explicite_wait_prac.test_ec_wait.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_incongnio_option.test_chrome_option.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_js_p1.test_alert_normal.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_js_p2.test_alert_normal.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_multibrowser.test_firefox_current_url_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_practice.test_verification_title.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_select_practice_001.test_alert_normal.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_selenium_action.test_svg_normal.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_selenium_exception.test_alert_normal.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_selenium_exception_handel.test_alert_normal.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_selenium_stale_exception.test_alert_normal.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_svg_part_1.test_alert_normal.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_svg_part_2.test_alert_normal.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_webtable_dynamic.test_webtable.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_webtable_interview.test_webtable.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_task171024.test_open_url.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Test_Task_24102024.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in lab_test_button_name.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_01_webtable01.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_01_webtables01.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab0001.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab001.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab002.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab002_title.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab01.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab_004_explicit.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab_explicit_fluent_wait.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab_explicite_wait_prac.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab_multibrowser.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab_practice.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab_practice_ebay.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab_selenium_actionP1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab_webtable_interview.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_task171024.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rverse_ code_without_reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_lab01.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PILsystem\PycharmProjects\Py4XLearningSeleniumPrograms\src\Ex_25122024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_lab_js_p1.test_alert_normal">
+  <component name="RunManager" selected="Python tests.Python tests for test_lab_js_p2.test_alert_normal">
     <configuration name="test_lab01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -149,6 +149,21 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_lab_js_p2.test_alert_normal" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_JS_excute" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab_js_p2.test_alert_normal&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_lab_selenium_action.test_svg_normal" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -179,21 +194,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_lab_selenium_exception.test_alert_normal" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py4XLearningSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_14012025" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab_selenium_exception.test_alert_normal&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests for test_lab_selenium_stale_exception.test_alert_normal" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -211,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_lab_js_p2.test_alert_normal" />
         <item itemvalue="Python tests.Python tests for test_lab_js_p1.test_alert_normal" />
         <item itemvalue="Python tests.Python tests for test_lab_selenium_action.test_svg_normal" />
         <item itemvalue="Python tests.Python tests for test_lab_selenium_stale_exception.test_alert_normal" />
         <item itemvalue="Python tests.Python tests for test_lab_selenium_exception_handel.test_alert_normal" />
-        <item itemvalue="Python tests.Python tests for test_lab_selenium_exception.test_alert_normal" />
       </list>
     </recent_temporary>
   </component>
@@ -507,7 +507,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737084825839</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="commited all selenium stale JS EXECUTE  date 29012025  link tag">
+      <option name="closed" value="true" />
+      <created>1738172986356</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1738172986356</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -543,6 +551,7 @@
     <MESSAGE value="commited all selenium Exception and execption handel  date 16012025  link tag" />
     <MESSAGE value="commited all selenium stale execption handel  date 16012025  link tag" />
     <MESSAGE value="commited all selenium stale action mouse back  date 17012025  link tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium stale action mouse back  date 17012025  link tag" />
+    <MESSAGE value="commited all selenium stale JS EXECUTE  date 29012025  link tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium stale JS EXECUTE  date 29012025  link tag" />
   </component>
 </project>
