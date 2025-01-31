@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium stale JS EXECUTE  date 29012025  link tag">
-      <change afterPath="$PROJECT_DIR$/src/Ex_JS_excute/test_lab_js_p2.py" afterDir="false" />
+    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium stale JS EXECUTE  date 31012025  link tag">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_JS_excute/test_lab_js_p2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_JS_excute/test_lab_js_p2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -515,7 +515,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738172986356</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="commited all selenium stale JS EXECUTE  date 31012025  link tag">
+      <option name="closed" value="true" />
+      <created>1738306663270</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1738306663270</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -552,6 +560,7 @@
     <MESSAGE value="commited all selenium stale execption handel  date 16012025  link tag" />
     <MESSAGE value="commited all selenium stale action mouse back  date 17012025  link tag" />
     <MESSAGE value="commited all selenium stale JS EXECUTE  date 29012025  link tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium stale JS EXECUTE  date 29012025  link tag" />
+    <MESSAGE value="commited all selenium stale JS EXECUTE  date 31012025  link tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium stale JS EXECUTE  date 31012025  link tag" />
   </component>
 </project>
