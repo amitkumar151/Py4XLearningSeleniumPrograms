@@ -19,3 +19,4 @@ def test_alert_normal():
     print(title)
     print(url)
     time.sleep(4)
+    driver.quit()
