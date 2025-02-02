@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium stale JS EXECUTE for url  date 31012025  link tag">
-      <change afterPath="$PROJECT_DIR$/src/Ex_JS_excute/test_lab_code_organizer.py" afterDir="false" />
+    <list default="true" id="dafe29de-54b2-461a-97eb-f1218dd269c6" name="Changes" comment="commited all selenium stale organize of code EXECUTE for url  date 01022025  link tag">
+      <change afterPath="$PROJECT_DIR$/src/Ex_JS_excute/test_lab_practice_need.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +71,7 @@
     "Python tests.Python tests for test_lab_js_p2.test_alert_normal.executor": "Run",
     "Python tests.Python tests for test_lab_multibrowser.test_firefox_current_url_verification.executor": "Run",
     "Python tests.Python tests for test_lab_practice.test_verification_title.executor": "Run",
+    "Python tests.Python tests for test_lab_practice_need.test_alert_normal.executor": "Run",
     "Python tests.Python tests for test_lab_select_practice_001.test_alert_normal.executor": "Run",
     "Python tests.Python tests for test_lab_selenium_action.test_svg_normal.executor": "Run",
     "Python tests.Python tests for test_lab_selenium_exception.test_alert_normal.executor": "Run",
@@ -97,6 +98,7 @@
     "Python tests.Python tests in test_lab_multibrowser.py.executor": "Run",
     "Python tests.Python tests in test_lab_practice.py.executor": "Run",
     "Python tests.Python tests in test_lab_practice_ebay.py.executor": "Run",
+    "Python tests.Python tests in test_lab_practice_need.py.executor": "Run",
     "Python tests.Python tests in test_lab_selenium_actionP1.py.executor": "Run",
     "Python tests.Python tests in test_lab_webtable_interview.py.executor": "Run",
     "Python tests.Python tests in test_task171024.py.executor": "Run",
@@ -113,7 +115,7 @@
       <recent name="C:\Users\PILsystem\PycharmProjects\Py4XLearningSeleniumPrograms\src\Ex_25122024" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for test_lab_practice_need.test_alert_normal">
     <configuration name="test_lab01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -181,18 +183,18 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_lab_selenium_action.test_svg_normal" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab_practice_need.test_alert_normal" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_17012025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_JS_excute" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab_selenium_action.test_svg_normal&quot;" />
+      <option name="_new_target" value="&quot;test_lab_practice_need.test_alert_normal&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -213,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_lab_practice_need.test_alert_normal" />
         <item itemvalue="Python tests.Python tests for test_lab_code_organizer.TestSelenium.test_js" />
         <item itemvalue="Python tests.Python tests in test_lab_code_organizer.py" />
         <item itemvalue="Python tests.Python tests for test_lab_js_p2.test_alert_normal" />
         <item itemvalue="Python tests.Python tests for test_lab_js_p1.test_alert_normal" />
-        <item itemvalue="Python tests.Python tests for test_lab_selenium_action.test_svg_normal" />
       </list>
     </recent_temporary>
   </component>
@@ -541,7 +543,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738309137041</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="commited all selenium stale organize of code EXECUTE for url  date 01022025  link tag">
+      <option name="closed" value="true" />
+      <created>1738390980463</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1738390980463</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -580,6 +590,7 @@
     <MESSAGE value="commited all selenium stale JS EXECUTE  date 29012025  link tag" />
     <MESSAGE value="commited all selenium stale JS EXECUTE  date 31012025  link tag" />
     <MESSAGE value="commited all selenium stale JS EXECUTE for url  date 31012025  link tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium stale JS EXECUTE for url  date 31012025  link tag" />
+    <MESSAGE value="commited all selenium stale organize of code EXECUTE for url  date 01022025  link tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited all selenium stale organize of code EXECUTE for url  date 01022025  link tag" />
   </component>
 </project>
