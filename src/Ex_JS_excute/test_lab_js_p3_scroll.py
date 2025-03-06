@@ -18,5 +18,5 @@ def test_alert_normal():
     input_box=driver.execute_script(
         "return document.querySelector('div#userName').shadowRoot.querySelector('#app2').shadowRoot.querySelector('#pizza');")
     input_box.send_keys("farmhouse")
-    time.sleep(4)
+    time.sleep()
     driver.quit()
